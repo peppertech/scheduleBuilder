@@ -1,0 +1,13 @@
+/jet_components
+/exchange_components
+/node_modules
+/dist
+/web
+/staged-themes
+/themes
+/jaftmp@
+
+package-lock.json
+
+.DS_Store
+Thumbs.db
